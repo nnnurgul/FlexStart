@@ -188,7 +188,7 @@ section {
 }
 
 .header .logo img {
-  max-height: 40px;
+  max-height: 70px;
   margin-right: 6px;
 }
 
@@ -253,7 +253,7 @@ section {
 
 .navbar .getstarted,
 .navbar .getstarted:focus {
-  background: #4154f1;
+  background:#6cc267 ;
   padding: 8px 20px;
   margin-left: 30px;
   border-radius: 4px;
@@ -393,13 +393,13 @@ section {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #012970;
+  color:#6cc267 ;
 }
 
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #4154f1;
+  color: #6cc267;
 }
 
 .navbar-mobile .getstarted,
@@ -471,7 +471,7 @@ section {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #4154f1;
+  background:#6cc267 ;
   box-shadow: 0px 5px 30px rgba(65, 84, 241, 0.4);
 }
 
