@@ -232,7 +232,7 @@ section {
   font-family: "Nunito", sans-serif;
   font-size: 16px;
   font-weight: 700;
-  color: #013289;
+  color: black;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -248,7 +248,7 @@ section {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #4154f1;
+  color:#6cc267 ;
 }
 
 .navbar .getstarted,
@@ -455,7 +455,7 @@ section {
   margin: 0;
   font-size: 48px;
   font-weight: 700;
-  color: #012970;
+  color: black;
 }
 
 .hero h2 {
